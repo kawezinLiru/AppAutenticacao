@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450675590926",
+    "project_id": "appautentica-o",
+    "storage_bucket": "appautentica-o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450675590926:android:8a7211ad4da3508733795f",
+        "android_client_info": {
+          "package_name": "com.example.appautenticao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450675590926-k8vr2k7p0u7inj62lklnnojkv6am7cd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB278aU4OXFOftotZ9fLA8jlRpA8Cz7FCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450675590926-k8vr2k7p0u7inj62lklnnojkv6am7cd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

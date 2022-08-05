@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppAutenticação</string>
+    <string name="edtLogin">Digite o seu login</string>
+    <string name="edtSenha">Digite sua senha</string>
+    <string name="btnLogar">Logar</string>
+    <string name="txtResposta">Logado com sucesso</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtCadastro">Não tem conta? cadastre-se</string>
+</resources>
